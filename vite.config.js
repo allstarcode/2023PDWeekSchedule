@@ -14,5 +14,5 @@ export default defineConfig({
   build: {
     outDir: 'docs',
   },
-  base: '/2022PDWeekSchedule/',
+  base: '/2023PDWeekSchedule/',
 });
