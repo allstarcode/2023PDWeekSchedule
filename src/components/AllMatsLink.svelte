@@ -11,8 +11,6 @@
 <li class={classes ? 'collection-item ' + classes : 'collection-item'}>
   <h5>{actname}</h5>
   {#each links as link}
-    <a class="gen-link" target="_blank" href={link.linkURL}
-      >{link.displayText}</a
-    >
+    <a class="gen-link" target="_blank" href={link.linkURL}> {link.displayText} </a>
   {/each}
 </li>
