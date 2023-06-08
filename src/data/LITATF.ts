@@ -193,7 +193,13 @@ export const allData: Schedule = [
         time: '09:30AM - 10:00AM',
         duration: '30',
         actType: 'codealong',
-        links: [],
+        links: [
+          {
+            displayText: 'Presentation Slides',
+            linkURL:
+              'https://docs.google.com/presentation/d/1egpJC9ojHm2X20cupbkBP3ZJjv8JhD5vgdmkKrGhPIk/edit?usp=sharing',
+          },
+        ],
       },
       { name: 'BREAK', time: '10:00AM - 10:15AM', duration: '15', actType: 'misc', links: [] },
       {
@@ -201,7 +207,13 @@ export const allData: Schedule = [
         time: '10:15AM - 11:15AM',
         duration: '60',
         actType: 'codealong',
-        links: [],
+        links: [
+          {
+            displayText: 'Presentation Slides',
+            linkURL:
+              'https://docs.google.com/presentation/d/1egpJC9ojHm2X20cupbkBP3ZJjv8JhD5vgdmkKrGhPIk/edit?usp=sharing',
+          },
+        ],
       },
       { name: 'BREAK', time: '11:15AM - 11:30AM', duration: '15', actType: 'misc', links: [] },
       {
