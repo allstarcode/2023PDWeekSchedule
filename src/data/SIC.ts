@@ -169,6 +169,10 @@ export const allData: Schedule = [
             linkURL:
               'https://docs.google.com/presentation/d/1USIIpiLxi5-0NZn2ecE1-lm876m1jb7WLm51xF5IZvk/edit?usp=sharing',
           },
+          {
+            displayText: 'Growth Mindset Feedback Cheat Sheet',
+            linkURL: 'https://docs.google.com/document/d/172Ov793yJiIp33sE2ZOrur-d8_g0YuH5UiokElZHLJY/edit?usp=sharing'
+          }
         ],
       },
       {
