@@ -171,8 +171,9 @@ export const allData: Schedule = [
           },
           {
             displayText: 'Growth Mindset Feedback Cheat Sheet',
-            linkURL: 'https://docs.google.com/document/d/172Ov793yJiIp33sE2ZOrur-d8_g0YuH5UiokElZHLJY/edit?usp=sharing'
-          }
+            linkURL:
+              'https://docs.google.com/document/d/172Ov793yJiIp33sE2ZOrur-d8_g0YuH5UiokElZHLJY/edit?usp=sharing',
+          },
         ],
       },
       {
@@ -315,7 +316,12 @@ export const allData: Schedule = [
         time: '04:15PM - 05:15PM',
         duration: '60',
         actType: 'coreskill',
-        links: [],
+        links: [
+          {
+            displayText: 'Install Class',
+            linkURL: 'https://allstarcode.class.com/',
+          },
+        ],
       },
       {
         name: 'Exit Survey',
