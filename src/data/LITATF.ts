@@ -269,6 +269,11 @@ export const allData: Schedule = [
             displayText: 'Microteaching Demo Feedback Form #2',
             linkURL: 'https://forms.gle/ph6cnbm5CBSUXzdu6',
           },
+          {
+            displayText: 'Session Discussion Notes',
+            linkURL:
+              'https://docs.google.com/document/d/1FNX8FIiouxKKhk1iW3LcyzeIkpueQTb-OJ3D_nGtUNg/edit?usp=sharing',
+          },
         ],
       },
       {
