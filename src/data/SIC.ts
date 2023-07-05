@@ -433,6 +433,11 @@ export const allData: Schedule = [
             linkURL:
               'https://docs.google.com/document/d/1yKBdprWaDgt0DS7DePyFk4JOWqZEDUJnrygf0lhgW4s/edit?usp=sharing',
           },
+          {
+            displayText: 'Session Notes',
+            linkURL:
+              'https://docs.google.com/document/d/1_of15sHzyujP2P2OzDuczWR2Snoi7KUaBMt7N92CHWs/edit?usp=sharing',
+          },
         ],
       },
       {
